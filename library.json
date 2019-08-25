@@ -1,0 +1,16 @@
+{
+  "name": "Servo for Arduino",
+  "title" : "Servo motor for Arduino",
+  "keywords": "servo, arduiono",
+  "description": "Allows Arduino/Genuino boards to control a variety of servo motors.",
+  "homepage": "https://www.arduino.cc/en/Reference/Servo",
+  "license": "MIT",
+  "category" : "Device Control",
+  "git": "https://github.com/comdet/kbide-arduino-servo/",
+  "author": "Michael Margolis, Arduino | block by Comdet",
+  "email": "info@arduino.cc",
+  "url": "http://www.arduino.cc/en/Reference/Servo",
+  "version": "1.0.0",
+  "platform": ["arduino-avr"],
+  "image" : "/static/display.jpg"
+}
